@@ -318,5 +318,6 @@ Route::get('/admin/search',[
     'uses'=>'Controller@getSearchAdmin',
     'as' =>'auth.admin.search'
 ]);
+test bash cho Git
 
 
